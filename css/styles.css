@@ -1,7 +1,7 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #9575CD ;
+    background: #a86fb7  ;
     color:floralwhite;
 }
 address{
@@ -24,16 +24,28 @@ address{
 }
 
 .footer{
-    background-color: #D1C4E9;
+    background-color: #e997f5;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
+    
 }
 
 .navbar-dark {
-     /*background-color: #512DA8;*/
-     background-color: #0f3734;
+     background-color: #512DA8;
+     /*background-color: #0f3734;*/
+     
+}
+
+.card-header{
+    background-color: rgb(150, 134, 154);
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
